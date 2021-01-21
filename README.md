@@ -1,8 +1,8 @@
 # Compilación
-## stylus nombre-de-archivo.styl -c -w
+*** stylus nombre-de-archivo.styl -c -w ***
 
 # Escuchar cambios
-## stylus nombre-de-archivo.styl -w
+*** stylus nombre-de-archivo.styl -w ***
 
 # Comprimir archivo
-## stylus nombre-de-archivo.styl -c
+*** stylus nombre-de-archivo.styl ***
